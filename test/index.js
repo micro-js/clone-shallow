@@ -9,7 +9,7 @@ var test = require('tape')
  * Tests
  */
 
-test('should work on arrays', function (t) {
+test('should copy arrays', function (t) {
   var arr = [1, 2, 3, 4]
   var newArr = clone(arr)
 
@@ -19,7 +19,7 @@ test('should work on arrays', function (t) {
   t.end()
 })
 
-test('should work on objects', function (t) {
+test('should copy objects', function (t) {
   var obj = {a: 1, b: 2, c: 3}
   var newObj = clone(obj)
 

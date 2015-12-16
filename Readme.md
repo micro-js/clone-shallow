@@ -10,12 +10,12 @@ Create a shallow clone of an object or array
 
 ## Installation
 
-    $ npm install @micro-js/clone-shallow
+    $ npm install @f/clone-shallow
 
 ## Usage
 
 ```js
-var clone = require('@micro-js/clone-shallow')
+var clone = require('@f/clone-shallow')
 
 var arr = [1, 2, 3, 4]
 var newArr = clone(arr)
@@ -48,5 +48,5 @@ MIT
 [git-url]: https://github.com/micro-js/clone-shallow
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/clone-shallow.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/clone-shallow
+[npm-image]: https://img.shields.io/npm/v/@f/clone-shallow.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/clone-shallow

@@ -44,9 +44,9 @@ MIT
 
 [travis-image]: https://img.shields.io/travis/micro-js/clone-shallow.svg?style=flat-square
 [travis-url]: https://travis-ci.org/micro-js/clone-shallow
-[git-image]: https://img.shields.io/github/tag/micro-js/clone-shallow.svg
+[git-image]: https://img.shields.io/github/tag/micro-js/clone-shallow.svg?style=flat-square
 [git-url]: https://github.com/micro-js/clone-shallow
-[standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
+[standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [standard-url]: https://github.com/feross/standard
 [npm-image]: https://img.shields.io/npm/v/@f/clone-shallow.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/@f/clone-shallow

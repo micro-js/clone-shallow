@@ -9,7 +9,9 @@
     "postversion": "git push && git push --tags && npm publish --access=public"
   },
   "dependencies": {
-    "@f/clone-obj": "^1.1.0"
+    "@f/clone-obj": "^1.1.0",
+    "@f/is-array": "^1.1.1",
+    "@f/slice": "^1.1.2"
   },
   "devDependencies": {
     "tape": "^4.2.2"

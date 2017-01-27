@@ -2,6 +2,7 @@
  * Imports
  */
 
+var isArray = require('@f/is-array')
 var clone = require('..')
 var test = require('tape')
 
@@ -15,6 +16,7 @@ test('should copy arrays', function (t) {
 
   t.deepEqual(arr, newArr)
   t.notEqual(arr, newArr)
+  t.ok(isArray(newArr))
 
   t.end()
 })
